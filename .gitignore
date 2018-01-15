@@ -1,0 +1,4 @@
+.idea
+.git
+.gitignore_global
+node_modules
